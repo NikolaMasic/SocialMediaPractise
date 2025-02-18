@@ -23,7 +23,7 @@ var newsfeed = [
         timeline: 'JavaScript rules.',
      },
      {  username: 'Mike',
-        timeline: 'Look at my Avocado toast receipe that I found!'
+        timeline: 'Look at my Avocado toast recipe that I found!'
      }
 
 ];

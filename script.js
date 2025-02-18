@@ -6,7 +6,7 @@ var database = [
     },
     {
         username: 'Joel',
-        password: 'Yankies',
+        password: 'Yankees',
         },
         {
             username: 'Marge',

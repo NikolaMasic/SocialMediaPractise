@@ -17,7 +17,7 @@ var database = [
 var newsfeed = [ 
      {
         username: 'Bob',
-        timeline: 'So tired from yestarday!'
+        timeline: 'So tired from yesterday!'
      },
      {  username: 'Susan',
         timeline: 'JavaScript rules.',
